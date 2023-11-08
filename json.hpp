@@ -58,9 +58,9 @@ public:
     void set_null(); //OK
     void set_list(); //OK
     void set_dictionary(); //OK
-    void push_front(json const&);
-    void push_back(json const&);
-    void insert(std::pair<std::string, json> const&);
+    void push_front(json const&);//OK
+    void push_back(json const&);//OK
+    void insert(std::pair<std::string, json> const&);//OK
 
 private:
     struct impl; // OK PROBABILMENTE MANCANO METODI PER GESTIONE
