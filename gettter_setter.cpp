@@ -1,8 +1,7 @@
 //
 // Created by valentina vardanega on 09/10/23.
 //
-#include "json.cpp"
-
+/*
 double &json::get_number() {
     if(! is_number())
         throw json_exception{ " get_number ma json non è tipo number "};
@@ -76,4 +75,4 @@ void json::set_dictionary() {
     delete pimpl;
     pimpl = new impl();
     pimpl->type = Type::Dictionary;
-}
+}*/
