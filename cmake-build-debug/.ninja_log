@@ -1,14 +1,6 @@
 # ninja log v5
 3	131	1699465623447215981	CMakeFiles/json.dir/gettter_setter.cpp.o	f25c99bbc2b619e1
-3	1517	1699465827424552133	CMakeFiles/json.dir/main.cpp.o	1d83d265e4cbfd03
-4	131	1699465623443538704	CMakeFiles/json.dir/iterator.cpp.o	5986b11b0775e413
-1	2674	1699465544188691693	CMakeFiles/json.dir/json.cpp.o	a55d80ecf607ae09
-1	222	1699465950641362136	build.ninja	264d635eb0513606
-2	1867	1699466178271860173	CMakeFiles/json.dir/json.cpp.o	a55d80ecf607ae09
-3	1936	1699466178344926148	CMakeFiles/json.dir/main.cpp.o	1d83d265e4cbfd03
-4	2950	1699466322017352032	CMakeFiles/json.dir/json.cpp.o	a55d80ecf607ae09
-5	3110	1699466322185286944	CMakeFiles/json.dir/main.cpp.o	1d83d265e4cbfd03
-3	1592	1699466677778104750	CMakeFiles/json.dir/json.cpp.o	a55d80ecf607ae09
-4	1718	1699466677907128510	CMakeFiles/json.dir/main.cpp.o	1d83d265e4cbfd03
-2	1807	1699467362103967689	CMakeFiles/json.dir/json.cpp.o	a55d80ecf607ae09
 2	1869	1699467362166248894	CMakeFiles/json.dir/main.cpp.o	1d83d265e4cbfd03
+1	222	1700071337672457334	build.ninja	264d635eb0513606
+4	131	1699465623443538704	CMakeFiles/json.dir/iterator.cpp.o	5986b11b0775e413
+2	1807	1699467362103967689	CMakeFiles/json.dir/json.cpp.o	a55d80ecf607ae09
